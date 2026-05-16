@@ -10,3 +10,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+db.sqlite3
+tasks.log
+celerybeat-schedule
+celerybeat-schedule-shm
+celerybeat-schedule-wal
